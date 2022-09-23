@@ -76,7 +76,7 @@ pexpect==4.3.1
 Pillow==6.2.2
 plotly==3.3.0
 promise==2.3
-protobuf==3.12.1
+protobuf==3.18.3
 psutil==5.7.0
 ptyprocess==0.5.2
 py2app==0.7.3
